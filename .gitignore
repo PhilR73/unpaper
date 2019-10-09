@@ -1,4 +1,5 @@
 *.o
+*.lnk
 .deps
 Makefile
 Makefile.in
@@ -23,4 +24,5 @@ tests/results*
 tests/runtest*.sh.log
 tests/runtest*.sh.trs
 unpaper
+unpaper.exe
 unpaper.1
